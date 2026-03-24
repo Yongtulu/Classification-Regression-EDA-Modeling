@@ -1,1 +1,2 @@
-# Classification-Regression-EDA-Modeling
+# Machine Learning - Project 2
+- This project is divided into two parts: classification algorithms and regression algorithms. For each part, I will process with data exploration and analysis (EDA) etc, until proceed through model training, evaluation, and horizontal performance comparisons among several algorithms. Different datasets will be used for the classification and regression tasks to ensure targeted analysis and comprehensive model assessment.
